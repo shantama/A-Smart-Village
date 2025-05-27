@@ -15,7 +15,7 @@ This is my final project for Computer Graphics Course in 9 semester, 27 May, 202
 - In this graphics project, I add both Translation and Rotation to create an Animation effect.
 
 
-###  Enjoy the animation
+##  Enjoy the animation
 ## Screenshorts
 ![Screenshot (124)](https://github.com/user-attachments/assets/0e1ca402-fbd6-453d-8d0c-8f683796f52f)
 
